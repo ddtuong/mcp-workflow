@@ -40,7 +40,7 @@ This project showcases:
 1. Clone the repository:
 ```bash
 git clone https://github.com/ddtuong/mcp-workflow.git
-cd mcp-example
+cd mcp-workflow
 ```
 
 2. Install dependencies using uv:
